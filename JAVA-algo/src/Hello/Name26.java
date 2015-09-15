@@ -2,15 +2,13 @@ package Hello;
 
 import java.util.Scanner;
 
-public class Hello {
+public class Name26 {
 	public static void main(String[] args) {
-		String hello = "검색어를 입력해주세요";
-		System.out.println(hello);
-		Scanner scanner = new Scanner(System.in);
+		String name ="이름을 입력하세요";
+		System.out.println(name);
+		Scanner scanner =new Scanner(System.in);
 		String hi = scanner.next();
 		System.out.println(hi);
-		
 	}
-	
 
 }
