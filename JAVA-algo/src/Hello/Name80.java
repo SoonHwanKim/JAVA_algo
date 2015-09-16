@@ -10,3 +10,4 @@ public class Name80 {
 		System.out.println(kim);
 	}
 }
+

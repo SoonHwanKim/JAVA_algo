@@ -13,7 +13,8 @@ public class Name {
 		System.out.println(name);
 		Scanner scanner = new Scanner(System.in);
 		String hi = scanner.next();
-		System.out.println(hi);
+		System.out.println("반갑습니다. " +hi+" 님");
 	}
 
 }
+
